@@ -39,7 +39,8 @@ while temp>0:
 
 ```
 ## Output
-<img width="593" height="114" alt="530337652-fbc45cbf-8cf2-47de-947f-58a2e7d476f2" src="https://github.com/user-attachments/assets/fdb5dcbd-5402-4c12-86f1-4c8b5b752693" />
+<img width="1139" height="262" alt="573220623-2368aa4c-f9e3-463a-b72c-a969c0214abf" src="https://github.com/user-attachments/assets/da9b9944-f40e-4e15-95fc-10844e6137bf" />
+
 
 
 ## Result
