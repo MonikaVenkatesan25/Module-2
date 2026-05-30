@@ -18,7 +18,8 @@ print(y)
 
 
 ## Output
-<img width="404" height="243" alt="image" src="https://github.com/user-attachments/assets/15c06949-1a36-4138-b8fc-1060727fdb4e" />
+<img width="326" height="277" alt="445698232-bd245342-4778-48d1-afa9-8e27f1b823ad" src="https://github.com/user-attachments/assets/d98e3bc7-84da-4ee0-b146-5b6cfc34d507" />
+
 
 
 ## Result
