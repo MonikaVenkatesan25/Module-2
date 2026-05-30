@@ -28,20 +28,20 @@ To write a Python program that generates **Pascal's Triangle** using numbers. Th
 
 ## 🧪 Program
 ```
-rows = int(input())
-coef = 1
+for i in range(n):
 
-for i in range(1, rows+1):
-for space in range(1, rows-i+1):
- print(" ",end="")
-for j in range(0, i):
-if j==0 or i==0:
-coef = 1
-else:
- coef = coef * (i - j)
-print(coef, end = " ")
-print()
+    print(" "*(n-1-i),end="")
+    
+    a=1
+    
+    for j in range(i+1):
+    
+        print(a,end=" ")
+        
+        a=a*(i-j)//(j+1)
 
+        
+    print()
 ```
 
 ## Sample Output
